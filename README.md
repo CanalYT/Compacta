@@ -1,2 +1,2 @@
 # Compacta
-the tool. _(COMING SOON...)_
+the new tool. _(COMING SOON...)_
