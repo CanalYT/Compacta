@@ -1,2 +1,2 @@
 # Compacta
-An real tool for anything. _(COMING SOON...)_
+the tool. _(COMING SOON...)_
