@@ -1,3 +1,2 @@
 # Compacta
-An powerful alternative of Flash.
-_(COMING SOON...)_
+An real tool for anything. _(COMING SOON...)_
